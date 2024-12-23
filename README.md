@@ -76,3 +76,8 @@
  
   <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="GithubPage" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
+
+## My Github Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RayChen1996&theme=default)](https://github.com/RayChen1996/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayChen1996&layout=compact&theme=default)](https://github.com/RayChen1996/github-readme-stats)
