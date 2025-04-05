@@ -10,6 +10,8 @@
 
 - 📓 CakeResume：https://www.cake.me/me/ray-chen-40de06
 
+- My Resume DownLoad Link：[下載](https://drive.google.com/file/d/1JLVK4D3MPIVnvMFrYDJzVgk79Vo-PVSB/view?usp=sharing)
+
 <h2 align="center">📓 Todo </h2>
 
 - [x] CSS Grid
