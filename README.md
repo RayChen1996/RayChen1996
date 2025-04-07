@@ -10,7 +10,7 @@
 
 - 📓 CakeResume：https://www.cake.me/me/ray-chen-40de06
 
-- My Resume DownLoad Link：[下載](https://drive.google.com/file/d/1myTIdft-xWz7ygKBv4Q8z5ScKrxFMcK9/view?usp=sharing)
+- My Resume DownLoad Link：[中文履歷](https://drive.google.com/file/d/1myTIdft-xWz7ygKBv4Q8z5ScKrxFMcK9/view?usp=sharing) | [英文履歷](https://drive.google.com/file/d/172vimZXDiCja-7sVDYnbKmV3-3jP2Elz/view?usp=sharing)
 
 <h2 align="center">📓 Todo </h2>
 
