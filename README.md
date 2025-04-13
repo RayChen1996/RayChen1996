@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **web technology**
 
-- 📝 I regularly write articles on [my website]([https://codingspace.raychen1996.us.kg/RayChen-Docusaurus-Vercel](https://vercel.com/raychen1996s-projects/ray-chen-docusaurus-vercel/docs/intro) and [medium post](https://medium.com/@ray.10315332)
+- 📝 I regularly write articles on [my website]([my website](https://vercel.com/raychen1996s-projects/ray-chen-docusaurus-vercel/docs/intro) and [medium post](https://medium.com/@ray.10315332)
 
 - 📫 How to reach me **ray.10315332@gmail.com**
 
