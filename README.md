@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ray Chen<br><br> <img src="https://komarev.com/ghpvc/?username=RayChen1996&style=for-the-badge"></h1>
 
-- 💻 [My Website](https://ray-chen-docusaurus-vercel.vercel.app/)
+- 💻 [My Blog Website](https://personal-portfolio-5yb.pages.dev/) | [My Website](https://ray-chen-docusaurus-vercel.vercel.app/)
 
 - 🌱 I’m currently learning **web technology**
 
