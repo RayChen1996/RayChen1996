@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ray.10315332@gmail.com**
 
-- 📓 CakeResume：https://www.cake.me/me/ray-chen-40de06
+- 📓 CakeResume：[連結](https://pdfs.cakeresume.com/user_pdfs/069250fc-3f63-48c1-b6fe-a335f2437c64.pdf)
 
 - My Resume DownLoad Link：[中文履歷](https://drive.google.com/file/d/1myTIdft-xWz7ygKBv4Q8z5ScKrxFMcK9/view?usp=sharing) | [英文履歷](https://drive.google.com/file/d/172vimZXDiCja-7sVDYnbKmV3-3jP2Elz/view?usp=sharing)
 
